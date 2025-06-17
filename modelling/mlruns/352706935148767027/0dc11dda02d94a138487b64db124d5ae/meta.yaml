@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/352706935148767027/0dc11dda02d94a138487b64db124d5ae/artifacts
+deleted_time: 1750131800527
+end_time: 1750131317763
+entry_point_name: ''
+experiment_id: '352706935148767027'
+lifecycle_stage: deleted
+run_id: 0dc11dda02d94a138487b64db124d5ae
+run_name: nervous-jay-531
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750131313377
+status: 4
+tags: []
+user_id: ThinkPad

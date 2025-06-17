@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/352706935148767027/5626ce87a490490cbbe576af8c5e3efa/artifacts
+deleted_time: 1750131800518
+end_time: 1750131327519
+entry_point_name: ''
+experiment_id: '352706935148767027'
+lifecycle_stage: deleted
+run_id: 5626ce87a490490cbbe576af8c5e3efa
+run_name: likeable-whale-63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750131322400
+status: 4
+tags: []
+user_id: ThinkPad

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/352706935148767027/81041efa05854b349e310c9fd850db7f/artifacts
+deleted_time: 1750131980664
+end_time: 1750131950556
+entry_point_name: ''
+experiment_id: '352706935148767027'
+lifecycle_stage: deleted
+run_id: 81041efa05854b349e310c9fd850db7f
+run_name: indecisive-eel-242
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750131948879
+status: 4
+tags: []
+user_id: ThinkPad

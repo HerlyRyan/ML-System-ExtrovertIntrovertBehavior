@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/352706935148767027/99f261ee48c84425b66bef5d417c7881/artifacts
+end_time: 1750130402700
+entry_point_name: ''
+experiment_id: '352706935148767027'
+lifecycle_stage: active
+run_id: 99f261ee48c84425b66bef5d417c7881
+run_name: beautiful-smelt-260
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750130379414
+status: 3
+tags: []
+user_id: ThinkPad

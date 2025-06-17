@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/352706935148767027/cced5a411c664696bdd476531389a4be/artifacts
+deleted_time: 1750131294450
+end_time: 1750131184052
+entry_point_name: ''
+experiment_id: '352706935148767027'
+lifecycle_stage: deleted
+run_id: cced5a411c664696bdd476531389a4be
+run_name: stylish-ape-762
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750131178231
+status: 4
+tags: []
+user_id: ThinkPad

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/352706935148767027/e32bee0ce98d44de9cafeb3224fd8ebe/artifacts
+deleted_time: 1750131980723
+end_time: 1750131819982
+entry_point_name: ''
+experiment_id: '352706935148767027'
+lifecycle_stage: deleted
+run_id: e32bee0ce98d44de9cafeb3224fd8ebe
+run_name: efficient-boar-808
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750131815517
+status: 4
+tags: []
+user_id: ThinkPad

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/352706935148767027/a032e9d96c2f40ccb54ce11771988d79/artifacts
+deleted_time: 1750131800469
+end_time: 1750131484808
+entry_point_name: ''
+experiment_id: '352706935148767027'
+lifecycle_stage: deleted
+run_id: a032e9d96c2f40ccb54ce11771988d79
+run_name: abrasive-crab-974
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750131477841
+status: 4
+tags: []
+user_id: ThinkPad

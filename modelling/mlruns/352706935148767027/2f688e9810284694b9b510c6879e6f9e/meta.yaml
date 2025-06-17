@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/352706935148767027/2f688e9810284694b9b510c6879e6f9e/artifacts
+deleted_time: 1750131294477
+end_time: 1750131243127
+entry_point_name: ''
+experiment_id: '352706935148767027'
+lifecycle_stage: deleted
+run_id: 2f688e9810284694b9b510c6879e6f9e
+run_name: placid-perch-742
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750131236611
+status: 4
+tags: []
+user_id: ThinkPad

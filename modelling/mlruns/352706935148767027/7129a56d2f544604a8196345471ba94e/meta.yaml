@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/352706935148767027/7129a56d2f544604a8196345471ba94e/artifacts
+end_time: 1750132654501
+entry_point_name: ''
+experiment_id: '352706935148767027'
+lifecycle_stage: active
+run_id: 7129a56d2f544604a8196345471ba94e
+run_name: glamorous-cat-952
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750132647556
+status: 3
+tags: []
+user_id: ThinkPad

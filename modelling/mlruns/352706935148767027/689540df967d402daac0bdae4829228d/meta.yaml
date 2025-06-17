@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/352706935148767027/689540df967d402daac0bdae4829228d/artifacts
+deleted_time: 1750131800489
+end_time: 1750131394854
+entry_point_name: ''
+experiment_id: '352706935148767027'
+lifecycle_stage: deleted
+run_id: 689540df967d402daac0bdae4829228d
+run_name: skillful-midge-566
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750131388076
+status: 4
+tags: []
+user_id: ThinkPad

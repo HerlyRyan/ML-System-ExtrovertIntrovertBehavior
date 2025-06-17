@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/352706935148767027/5a391491032e4a529671733250adff73/artifacts
+end_time: 1750132571844
+entry_point_name: ''
+experiment_id: '352706935148767027'
+lifecycle_stage: active
+run_id: 5a391491032e4a529671733250adff73
+run_name: mysterious-stork-438
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750132565054
+status: 3
+tags: []
+user_id: ThinkPad

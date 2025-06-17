@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/352706935148767027/22fbd4d4a7e54c3aabfc7dd613cc2645/artifacts
+deleted_time: 1750131980663
+end_time: 1750131930235
+entry_point_name: ''
+experiment_id: '352706935148767027'
+lifecycle_stage: deleted
+run_id: 22fbd4d4a7e54c3aabfc7dd613cc2645
+run_name: illustrious-hawk-425
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750131923410
+status: 4
+tags: []
+user_id: ThinkPad

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/352706935148767027/4d928aa7dca84cab99bfe23d7cd8d674/artifacts
+deleted_time: 1750131980662
+end_time: 1750131943873
+entry_point_name: ''
+experiment_id: '352706935148767027'
+lifecycle_stage: deleted
+run_id: 4d928aa7dca84cab99bfe23d7cd8d674
+run_name: wise-dove-566
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750131935041
+status: 4
+tags: []
+user_id: ThinkPad

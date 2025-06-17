@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/352706935148767027/3282c6088a92471884009d50da240483/artifacts
+end_time: 1750132563325
+entry_point_name: ''
+experiment_id: '352706935148767027'
+lifecycle_stage: active
+run_id: 3282c6088a92471884009d50da240483
+run_name: likeable-zebra-147
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750132556212
+status: 3
+tags: []
+user_id: ThinkPad

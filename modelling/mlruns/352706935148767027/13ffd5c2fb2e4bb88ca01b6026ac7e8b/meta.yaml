@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/352706935148767027/13ffd5c2fb2e4bb88ca01b6026ac7e8b/artifacts
+deleted_time: 1750131800483
+end_time: 1750131428705
+entry_point_name: ''
+experiment_id: '352706935148767027'
+lifecycle_stage: deleted
+run_id: 13ffd5c2fb2e4bb88ca01b6026ac7e8b
+run_name: fortunate-hare-875
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750131421677
+status: 4
+tags: []
+user_id: ThinkPad

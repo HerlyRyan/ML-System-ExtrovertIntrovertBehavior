@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/352706935148767027/15bafe0560f04ed6bf430f1193bb1087/artifacts
+end_time: 1750132665708
+entry_point_name: ''
+experiment_id: '352706935148767027'
+lifecycle_stage: active
+run_id: 15bafe0560f04ed6bf430f1193bb1087
+run_name: loud-shad-6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750132658758
+status: 3
+tags: []
+user_id: ThinkPad

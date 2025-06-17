@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/352706935148767027/77e5bb7ff4d845eb8431f6089e0a075f/artifacts
+deleted_time: 1750131980711
+end_time: 1750131830279
+entry_point_name: ''
+experiment_id: '352706935148767027'
+lifecycle_stage: deleted
+run_id: 77e5bb7ff4d845eb8431f6089e0a075f
+run_name: learned-snake-336
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750131824940
+status: 4
+tags: []
+user_id: ThinkPad

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/352706935148767027/497457c91bf3409da19da190369f810b/artifacts
+deleted_time: 1750131980705
+end_time: 1750131841952
+entry_point_name: ''
+experiment_id: '352706935148767027'
+lifecycle_stage: deleted
+run_id: 497457c91bf3409da19da190369f810b
+run_name: burly-stork-163
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750131836460
+status: 4
+tags: []
+user_id: ThinkPad

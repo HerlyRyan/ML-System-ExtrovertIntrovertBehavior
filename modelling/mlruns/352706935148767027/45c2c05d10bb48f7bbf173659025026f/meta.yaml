@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/352706935148767027/45c2c05d10bb48f7bbf173659025026f/artifacts
+end_time: 1750132603771
+entry_point_name: ''
+experiment_id: '352706935148767027'
+lifecycle_stage: active
+run_id: 45c2c05d10bb48f7bbf173659025026f
+run_name: nimble-kit-509
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750132597479
+status: 3
+tags: []
+user_id: ThinkPad

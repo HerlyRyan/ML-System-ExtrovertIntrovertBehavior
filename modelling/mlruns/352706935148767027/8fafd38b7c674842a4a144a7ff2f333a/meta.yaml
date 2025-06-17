@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/352706935148767027/8fafd38b7c674842a4a144a7ff2f333a/artifacts
+deleted_time: 1750131294436
+end_time: 1750131155146
+entry_point_name: ''
+experiment_id: '352706935148767027'
+lifecycle_stage: deleted
+run_id: 8fafd38b7c674842a4a144a7ff2f333a
+run_name: merciful-vole-432
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750131150633
+status: 4
+tags: []
+user_id: ThinkPad

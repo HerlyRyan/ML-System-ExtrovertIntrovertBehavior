@@ -1,0 +1,38 @@
+artifact_path: mlflow-artifacts:/352706935148767027/models/m-2fe28ea6101142ada6fa91a45f0ca0ea/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.2
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+is_signature_from_type_hint: false
+mlflow_version: 3.1.0
+model_id: m-2fe28ea6101142ada6fa91a45f0ca0ea
+model_size_bytes: 26384797
+model_uuid: m-2fe28ea6101142ada6fa91a45f0ca0ea
+prompts: null
+run_id: f7e6ae1098784ae1b78ba036047185b4
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "Time_spent_Alone", "required": true}, {"type":
+    "long", "name": "Stage_fear", "required": true}, {"type": "double", "name": "Social_event_attendance",
+    "required": true}, {"type": "double", "name": "Going_outside", "required": true},
+    {"type": "long", "name": "Drained_after_socializing", "required": true}, {"type":
+    "double", "name": "Friends_circle_size", "required": true}, {"type": "double",
+    "name": "Post_frequency", "required": true}]'
+  outputs: '[{"type": "long", "required": true}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-06-17 03:37:14.909867'

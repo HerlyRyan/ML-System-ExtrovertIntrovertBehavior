@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/352706935148767027/a980f640f1b543ecb52e26b731b862af/artifacts
+deleted_time: 1750131294441
+end_time: 1750131164072
+entry_point_name: ''
+experiment_id: '352706935148767027'
+lifecycle_stage: deleted
+run_id: a980f640f1b543ecb52e26b731b862af
+run_name: tasteful-fish-540
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750131159702
+status: 4
+tags: []
+user_id: ThinkPad

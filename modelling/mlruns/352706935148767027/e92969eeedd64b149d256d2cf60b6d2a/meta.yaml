@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/352706935148767027/e92969eeedd64b149d256d2cf60b6d2a/artifacts
+deleted_time: 1750131800516
+end_time: 1750131340837
+entry_point_name: ''
+experiment_id: '352706935148767027'
+lifecycle_stage: deleted
+run_id: e92969eeedd64b149d256d2cf60b6d2a
+run_name: bemused-skunk-836
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750131335162
+status: 4
+tags: []
+user_id: ThinkPad

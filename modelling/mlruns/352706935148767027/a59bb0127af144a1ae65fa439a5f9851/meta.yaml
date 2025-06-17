@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/352706935148767027/a59bb0127af144a1ae65fa439a5f9851/artifacts
+end_time: 1750132622806
+entry_point_name: ''
+experiment_id: '352706935148767027'
+lifecycle_stage: active
+run_id: a59bb0127af144a1ae65fa439a5f9851
+run_name: adorable-elk-433
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750132616708
+status: 3
+tags: []
+user_id: ThinkPad

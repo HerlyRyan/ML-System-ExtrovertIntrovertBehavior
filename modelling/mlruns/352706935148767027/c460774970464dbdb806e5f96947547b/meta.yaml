@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/352706935148767027/c460774970464dbdb806e5f96947547b/artifacts
+end_time: 1750132594376
+entry_point_name: ''
+experiment_id: '352706935148767027'
+lifecycle_stage: active
+run_id: c460774970464dbdb806e5f96947547b
+run_name: unleashed-mink-190
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750132587347
+status: 3
+tags: []
+user_id: ThinkPad

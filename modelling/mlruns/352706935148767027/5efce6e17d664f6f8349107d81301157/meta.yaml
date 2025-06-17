@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/352706935148767027/5efce6e17d664f6f8349107d81301157/artifacts
+deleted_time: 1750131980692
+end_time: 1750131864510
+entry_point_name: ''
+experiment_id: '352706935148767027'
+lifecycle_stage: deleted
+run_id: 5efce6e17d664f6f8349107d81301157
+run_name: angry-dolphin-219
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750131858518
+status: 4
+tags: []
+user_id: ThinkPad
