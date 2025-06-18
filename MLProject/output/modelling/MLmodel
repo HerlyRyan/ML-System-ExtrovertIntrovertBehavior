@@ -1,4 +1,4 @@
-artifact_path: file:///D:/Laskar-Ai/Materi/Membangun-Sistem-Machine-Learning/Eksperimen_SML_Herly/mlruns/180076320888474307/models/m-0209df9ce8e54b5bb1605bb4c3efad41/artifacts
+artifact_path: modelling
 flavors:
   python_function:
     env:
@@ -14,12 +14,11 @@ flavors:
     serialization_format: cloudpickle
     sklearn_version: 1.6.1
 is_signature_from_type_hint: false
-mlflow_version: 3.1.0
-model_id: m-0209df9ce8e54b5bb1605bb4c3efad41
+mlflow_version: 2.22.0
 model_size_bytes: 142013
-model_uuid: m-0209df9ce8e54b5bb1605bb4c3efad41
+model_uuid: c698269fe1914754906135672c3721b4
 prompts: null
-run_id: ee6f957e796b49529f7fa3a3f463659d
+run_id: 566108fbc7634a43a53d6f6b2b13a4b4
 saved_input_example_info:
   artifact_path: input_example.json
   pandas_orient: split
@@ -35,4 +34,4 @@ signature:
   outputs: '[{"type": "long", "required": true}]'
   params: null
 type_hint_from_example: false
-utc_time_created: '2025-06-17 08:33:28.382613'
+utc_time_created: '2025-06-18 00:35:03.152023'

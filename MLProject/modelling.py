@@ -9,11 +9,11 @@ from sklearn.metrics import precision_score, recall_score, f1_score
 def setup_mlflow():
     if os.getenv("ENV") != "production":
         load_dotenv()
-    tracking_uri = os.getenv("MLFLOW_TRACKING_URI", "https://dagshub.com/HerlyRyan/ML-System-ExtrovertIntrovertBehavior.mlflow")
-    mlflow.set_tracking_uri(tracking_uri)
-    mlflow.set_experiment("Ekstrovert Introvert Modelling")
+    tracking_uri = os.getenv("MLFLOW_TRACKING_URI", "https://dagshub.com/HerlyRyan/ekstrovert-introvert-behavior.mlflow")
     os.environ["MLFLOW_TRACKING_USERNAME"] = os.getenv("MLFLOW_TRACKING_USERNAME", "")
     os.environ["MLFLOW_TRACKING_PASSWORD"] = os.getenv("MLFLOW_TRACKING_PASSWORD", "")
+    mlflow.set_tracking_uri(tracking_uri)
+    mlflow.set_experiment("Ekstrovert Introvert Modelling")
 
     print(f"✅ MLflow tracking URI set to: {tracking_uri}")
 

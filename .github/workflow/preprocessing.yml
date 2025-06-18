@@ -1,0 +1,60 @@
+name: Run Preprocessing Script
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch: # allows manual triggering from GitHub UI
+
+jobs:
+  run-preprocessing:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install pandas numpy matplotlib seaborn scikit-learn joblib mlflow
+
+      - name: Run preprocessing script
+        run: python preprocessing/automate_Herly.py
+        
+      - name: Move processed files to correct folder
+        run: |
+          mkdir -p preprocessing/output
+          mv preprocessing/output/* preprocessing/output || echo "No files to move"
+          
+      - name: Commit and push output to repo
+        if: github.event_name != 'pull_request' # optional safety to prevent PR dispatch
+        run: |
+          git config user.name "${{ secrets.username }}"
+          git config user.email "${{ secrets.mail }}"
+          git add preprocessing/output/*
+          git commit -m "Auto-commit preprocessing output" || echo "preprocessing/output may be unchanged or failed."
+          git push origin "HEAD:${GITHUB_REF#refs/heads/}"    
+
+      - name: Upload output artifacts
+        uses: actions/upload-artifact@v4.6.2
+        with:
+          name: preprocessed-data
+          path: preprocessing/output/
+
+      - name: Trigger Modelling Workflow
+        if: github.event_name != 'pull_request' # optional safety to prevent PR dispatch
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          event-type: triggering-modelling
+          repository: HerlyRyan/ML-System-ExtrovertIntrovertBehavior
+          workflow: modelling.yml
+          ref: main
